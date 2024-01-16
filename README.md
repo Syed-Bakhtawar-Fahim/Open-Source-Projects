@@ -20,4 +20,10 @@
 - **Demo:** [Crypto World](https://crypto-world-bitcon.netlify.app/)
 - **Description:** Immerse yourself in the Crypto World. Stay updated on cryptocurrency trends, and market data, and explore the exciting possibilities of the blockchain.
 
+## 6. Xnitia
+- **Demo:** [Xnitia](https://xnitia.netlify.app/)
+
+## 7. Galata Anket Survey
+- **Demo:** [Galata Anket Survey](https://galata-anket-survey.netlify.app/)
+
 Feel free to explore these projects, and don't hesitate to provide feedback or suggestions. Happy coding!
